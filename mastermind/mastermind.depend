@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574712035 source:c:\donnees\ludus\cours\algo\tp\mastermind\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
